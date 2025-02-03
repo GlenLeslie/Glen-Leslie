@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -221,7 +220,7 @@
         <!-- Video Section -->
     <div class="video-container" id="videoContainer">
         <video width="100%" controls autoplay>
-            <source src="Love video.mp4" type="video/mp4">
+            <source src="C:\Users\Glen Leslie\Desktop\Jobs CV\Love video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
